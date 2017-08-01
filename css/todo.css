@@ -1,0 +1,19 @@
+body{
+        font-family:'Merriweather',Georgia, serif;
+        color:#33FFDA;
+        background-image: url("Ginger.JPG");
+}
+
+
+.jumbotron{
+    background:pink;
+    height:250px;
+}
+.jumbotron img{
+    width:50%;
+    float: none;
+    max-height:160px;
+}
+.btn-default {
+  background-color: #FFF933;
+}
